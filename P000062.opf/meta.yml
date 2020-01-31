@@ -1,0 +1,36 @@
+ebook_metadata:
+  title: ༄༅། །ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་འདའ་ཀ་ཞལ་ཆེམས་དིང་རི་བརྒྱ་རྩ་མ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཕ་དམ་པ་སངས་རྒྱས།
+  sku: LS-ZHI-04
+  layers:
+  - book_title
+  - author
+  - chapter_title
+web_metadata:
+  title:
+    en: The Hundred Verses of Dingri:Padampa Sangye’s Parinirvāṇa Testament
+    bo: ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་འདའ་ཀ་ཞལ་ཆེམས་དིང་རི་བརྒྱ་རྩ་མ་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Zhije Series–  Book 4
+    bo: ཞི་བྱེད།–  དེབ། ༤
+  author:
+    en: Padampa Sangye
+    bo: ཕ་དམ་པ་སངས་རྒྱས།
+  pusblisher:
+    en: Dingri Langkor Zhijed Ling
+    bo: དིང་རི་གླང་སྐོར་ཞི་བྱེད་གླིང་།
+  sku: LS-ZHI-04
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LS-ZHI-04.epub
+  description:
+    en: ''
+    bo: ''
