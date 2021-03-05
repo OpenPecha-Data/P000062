@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000062
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །ཕ་དམ་པ་སངས་རྒྱས་ཀྱི་འདའ་ཀ་ཞལ་ཆེམས་དིང་རི་བརྒྱ་རྩ་མ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཕ་དམ་པ་སངས་རྒྱས།
-  sku: LS-ZHI-04
   layers:
   - book_title
   - author
   - chapter_title
+  id: LS-ZHI-04
 web_metadata:
   title:
     en: The Hundred Verses of Dingri:Padampa Sangye’s Parinirvāṇa Testament
